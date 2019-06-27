@@ -1,8 +1,8 @@
 class demo 
 {
- p s void main()
+ p s void main(....)
   {
      .......
-     s.o.p("hello").
+     s.o.print("good day....").
   }
 }
